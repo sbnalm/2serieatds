@@ -1,0 +1,18 @@
+.tela {
+    width: px;
+    height: 1024px;
+    background-color: rgb(182, 222, 255);
+}
+
+.filho1 {
+    width: px;
+    height: 100px;
+    background-color:royalblue;
+}
+
+.filho2
+ {
+    width: px;
+    height: 100px;
+    background-color:rgb(152, 173, 233);
+}
